@@ -1,7 +1,7 @@
 # Deep-Learning
 Deep Learning - MSc Data Science  @ City, University of London
 
-# First part of the project: 
+### First part of the project: 
 The purpose of this project is to train an agent using reinforcement and deep learning
 techniques to solve basic and advance tasks. The initial (basic) task’s purpose is to train an
 agent to find the most efficient route from Paris-Charles De Gaulle airport to Eiffel Tower in
@@ -13,5 +13,5 @@ which are the states. Moreover, the environment is deterministic and does not ch
 (Static) and the current state will determine the available next states. The actions executed by
 the agent is stochastic.
 
-# Second part of the project: 
+### Second part of the project: 
 The advanced task which is Cartpole V-1 using openAI gym environment.
